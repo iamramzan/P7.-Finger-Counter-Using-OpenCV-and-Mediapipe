@@ -1,4 +1,4 @@
-# P8. Finger Counter Using OpenCV and Mediapipe
+# P7. Finger Counter Using OpenCV and Mediapipe
 
 # Importing necessary libraries
 import cv2  # OpenCV for video capture and image processing
