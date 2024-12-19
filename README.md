@@ -1,4 +1,4 @@
-# P9.-Finger-Counter-Using-OpenCV-and-Mediapipe
+# P7.-Finger-Counter-Using-OpenCV-and-Mediapipe
 
 This project utilizes Python 3, OpenCV, and MediaPipe to build a real-time finger counting system that detects and tracks hand movements, analyzes finger positions, and accurately counts the number of extended fingers. The system highlights the power of computer vision and pre-trained AI models in creating gesture-based applications.
 
