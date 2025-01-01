@@ -19,4 +19,4 @@ The finger counting system follows a structured workflow to process the video st
 I’m passionate about improving my projects and learning from the community! 😊
 Have suggestions for enhancing this Finger Counter detection system? Or do you have ideas for creative use cases? Let’s connect! Share your thoughts and feedback in the comments below—I’d love to explore new possibilities together!
 
-[![P8: Hand-Controlled Media Player Using OpenCV and MediaPipe](https://img.youtube.com/vi/Q6fiVIBduQo/0.jpg)](https://youtu.be/Q6fiVIBduQo)
+[![P7. Finger Counter Using OpenCV and Mediapipe](https://img.youtube.com/vi/Q6fiVIBduQo/0.jpg)](https://youtu.be/Q6fiVIBduQo)
